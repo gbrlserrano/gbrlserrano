@@ -1,4 +1,4 @@
-## Hi! 
+##
 *Glad to see you here!*
 
  :small_orange_diamond: I'm Gabriela Serrano (she / her) <br>
