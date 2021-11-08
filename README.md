@@ -5,7 +5,6 @@
  :small_orange_diamond: 28 years old tattoo artist and illustrator who fell in love with coding <br>
  :small_orange_diamond: Dev Student <br>
  :small_orange_diamond: Switching careers <br>
- :small_orange_diamond: I'm on my way to become a front-end developer <br>
  :small_red_triangle_down: I’m currently learning React and Python.
  
 ##
