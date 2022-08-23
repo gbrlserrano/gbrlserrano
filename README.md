@@ -3,9 +3,9 @@
 
  :small_orange_diamond: I'm Gabriela Serrano (she / her) <br>
  :small_orange_diamond: 29 years old tattoo artist and illustrator who fell in love with coding <br>
- :small_orange_diamond: Dev Student <br>
+ :small_orange_diamond: Tech Student <br>
  :small_orange_diamond: Switching careers <br>
- :small_red_triangle_down: A Friend, learner, curious and a restless mind by heart.
+ :small_red_triangle_down: A Friend, a learner, a curious and restless mind by heart.
  
 ##
 <div align="center">
