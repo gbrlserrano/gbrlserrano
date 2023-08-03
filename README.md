@@ -2,10 +2,10 @@
 *Glad to see you here!*
 
  :small_orange_diamond: I'm Gabriela Serrano (she / her) <br>
- :small_orange_diamond: 29 years old tattoo artist and illustrator who fell in love with coding <br>
- :small_orange_diamond: Tech Student <br>
- :small_orange_diamond: Switching careers <br>
- :small_red_triangle_down: A Friend, a learner, a curious and restless mind by heart.
+ :small_orange_diamond: 30 years old artist who fell in love with technology <br>
+ :small_orange_diamond: IBMer <br>
+ :small_orange_diamond: QA | Java | <br>
+ :small_red_triangle_down: Expertise in translating IT requirements in the design, development, and assembly of components to create custom information systems. Typical examples of the deliverables are functional and technical designs, models, components, code, unit tests, and documentation.
  
 ##
 <div align="center">
